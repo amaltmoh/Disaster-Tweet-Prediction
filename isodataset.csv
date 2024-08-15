@@ -1,0 +1,66 @@
+Country,Police,Fire,Ambulance
+India,100,101,108
+Botswana,911,0,0
+Chad,117,0,0
+Ethiopia,91,93,92
+Egypt,122,180,123
+Kenya,0,0,999
+Morocco,19,15,0
+Nigeria,199,0,0
+Rwanda,0,0,112
+South Africa,10111,0,10177
+Tanzania,0,0,112
+Togo,101,0,0
+Uganda,0,0,112
+Bhutan,113,112,110
+Brunei,993,995,991
+Cambodia,117,118,118
+China,110,119,120
+India,0,0,112
+Japan,110,119,0
+Kyrgyzstan,0,0,103
+Nepal,100,0,228094
+Pakistan,0,0,15
+Philippines,117,0,166
+Singapore,999,995,995
+South Korea,112,119,119
+Sri Lanka,0,0,1691095
+Taiwan,110,119,119
+Thailand,191,199,0
+Vietnam,3,8,5
+Argentina,101,107,0
+Belize,911,0,0
+Bolivia,911,0,0
+Costa Rica,911,0,0
+DominicanRepublic,911,0,0
+El Salvador,911,0,0
+Brazil,190,193,192
+Chile,133,132,131
+Colombia,119,0,0
+Cuba,0,0,26811
+Falkland Islands,999,0,0
+Guyana,999,0,0
+Guatemala,110,0,123
+Uruguay,911,0,999
+Cyprus,0,0,112
+Russia,0,0,112
+Turkey,0,0,112
+Isle of Man,999,0,0
+UK,999,0,0
+Austria,0,118,112
+Switzerland,117,118,144
+Bahrain,999,0,0
+Oman,999,0,0
+Qatar,999,0,0
+Iran,110,123,115
+Israel,100,102,101
+Jordan,192,193,191
+Kuwait,0,0,777
+Lebanon,112,175,0
+Saudi Arabia,999,998,997
+UAE,999,997,998
+Bahamas,911,0,0
+Barbados,911,0,0
+Canada,911,68,65
+Mexico,60,68,65
+USA,911,0,0
